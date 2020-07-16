@@ -22,7 +22,7 @@ class FormUserDetails extends Component {
         return (
             <MuiThemeProvider>
                 <React.Fragment>
-                    <Appbar title="User Details" />
+                    <Appbar title="User Details Form" />
                    
                     <br/>
                     <Grid item xs={6}>
